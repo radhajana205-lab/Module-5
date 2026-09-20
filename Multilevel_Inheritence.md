@@ -1,6 +1,6 @@
 # Multilevel Inheritance Example in Python
-## ANME: MONISHA P
-## REF NO: 25018486
+## ANME: JANARTHANI R
+## REF NO: 25017541
 This Python project demonstrates the concept of **Multilevel Inheritance** to collect and display the **name**, **age**, and **location** of a person.
 
 ## 🎯 Aim
