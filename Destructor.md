@@ -1,6 +1,6 @@
 # Destructor in Python
-## NAME: MONISHA P
-## REF NO: 25018486
+## NAME: JANARTHANI R
+## REF NO: 25017541
 This project demonstrates how to implement a **destructor** in Python using a simple class.
 
 ## 🚀 Overview
